@@ -1,7 +1,7 @@
-package test.chess.peice;
+package com.chess.peice;
 
-import test.chess.board.Block;
-import test.chess.board.Board;
+import com.chess.board.Block;
+import com.chess.board.Board;
 
 /**
  * Created by Manish on 7/15/17.

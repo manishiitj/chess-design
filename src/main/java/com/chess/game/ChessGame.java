@@ -1,4 +1,4 @@
-package test.chess.game;
+package com.chess.game;
 
 /**
  * Created by Manish on 7/15/17.

@@ -1,13 +1,11 @@
 import javafx.application.Application;
 import javafx.stage.Stage;
-import test.chess.board.Block;
-import test.chess.board.Board;
-import test.chess.peice.Piece;
-import test.chess.peice.PieceFactory;
-import test.chess.player.Pair;
-import test.chess.player.Player;
+import com.chess.board.Block;
+import com.chess.board.Board;
+import com.chess.peice.Piece;
+import com.chess.player.Pair;
+import com.chess.player.Player;
 
-import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Stack;

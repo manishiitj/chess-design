@@ -1,6 +1,6 @@
-package test.chess.player;
+package com.chess.player;
 
-import test.chess.board.Block;
+import com.chess.board.Block;
 
 /**
  * Created by Manish on 7/15/17.

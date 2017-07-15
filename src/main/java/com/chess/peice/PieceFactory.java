@@ -1,6 +1,6 @@
-package test.chess.peice;
+package com.chess.peice;
 
-import test.chess.exception.NoPieceFoundException;
+import com.chess.exception.NoPieceFoundException;
 
 /**
  * Created by Manish on 7/15/17.
@@ -9,7 +9,7 @@ import test.chess.exception.NoPieceFoundException;
 public class PieceFactory {
 
 
-    public static Piece getPiece(Piece.Type type, Piece.PieceColor color) throws NoPieceFoundException{
+    public static Piece getPiece(Piece.Type type, Piece.PieceColor color) throws NoPieceFoundException {
         Piece piece;
         switch (type){
             case BISHOP:

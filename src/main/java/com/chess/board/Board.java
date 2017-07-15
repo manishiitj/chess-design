@@ -1,8 +1,8 @@
-package test.chess.board;
+package com.chess.board;
 
-import test.chess.constant.Constant;
-import test.chess.peice.Piece;
-import test.chess.peice.PieceFactory;
+import com.chess.constant.Constant;
+import com.chess.peice.Piece;
+import com.chess.peice.PieceFactory;
 
 /**
  * Created by Manish on 7/15/17.

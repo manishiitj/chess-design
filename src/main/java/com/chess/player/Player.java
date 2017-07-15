@@ -1,4 +1,4 @@
-package test.chess.player;
+package com.chess.player;
 
 import java.util.Stack;
 

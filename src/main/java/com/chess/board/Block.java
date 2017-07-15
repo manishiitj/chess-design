@@ -1,6 +1,6 @@
-package test.chess.board;
+package com.chess.board;
 
-import test.chess.peice.Piece;
+import com.chess.peice.Piece;
 
 /**
  * Created by Manish on 7/15/17.

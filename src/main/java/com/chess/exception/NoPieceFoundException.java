@@ -1,4 +1,4 @@
-package test.chess.exception;
+package com.chess.exception;
 
 /**
  * Created by Manish on 7/15/17.

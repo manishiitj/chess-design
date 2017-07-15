@@ -1,4 +1,4 @@
-package test.chess.constant;
+package com.chess.constant;
 
 /**
  * Created by Manish on 7/15/17.
